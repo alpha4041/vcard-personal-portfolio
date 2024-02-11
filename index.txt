@@ -1,24 +1,23 @@
-vCard - Personal Portfolio
+Alpha's Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Alpha
+Italian Translator
 
 Show Contacts
 
 Email
-richard@example.com
+alph404@proton.me
 
-Phone
-+1 (213) 352-2795
+Telegram
+@alph4
 
 Birthday
-June 23, 1982
+May 30
 
 Location
-Sacramento, California, USA
+Sardinia, Italy
 
 # navbar
 
